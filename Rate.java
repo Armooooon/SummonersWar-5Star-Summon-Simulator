@@ -30,7 +30,6 @@ public class Rate {
 				    "Chimera (Fire) - Rakan",
 				    "Chimera (Water) - Taor",
 				    "Chimera (Wind) - Lagmaron",
-				    "Contaminated Dragon",
 				    "Demon (Fire) - Bael",
 				    "Demon (Water) - Belial",
 				    "Demon (Wind) - Mephisto",
